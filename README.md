@@ -49,18 +49,18 @@ Breast cancer diagnosis is a critical task in medical diagnostics, where early a
 
 Each model's performance is evaluated across accuracy, precision, and recall metrics. The ANN and Random Forest models show promising results, while simpler models like Naive Bayes provide a baseline for comparison.
 
-**Train Accuracy**
+### Train Accuracy
 ![image](https://github.com/user-attachments/assets/6a926000-f594-417b-9018-36e59f5303a1)
 
-**Test Accuracy** 
+### Test Accuracy 
 ![image](https://github.com/user-attachments/assets/e18d9298-ec7f-49c5-8fe5-7656de39d9f6)
 
 
-**Precision**
+### Precision
 ![image](https://github.com/user-attachments/assets/e59897fb-4635-40c4-a9e4-6e1f0f0051d3)
 
 
-**Recall** 
+### Recall
 ![image](https://github.com/user-attachments/assets/b8d58ab2-fbf9-4cef-b124-07b790e027ce)
 
 ---
